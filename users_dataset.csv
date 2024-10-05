@@ -1,6 +1,0 @@
-userID,family_size,cooking_skills,age_range,meal_preferences,allergies
-1,2-3,Beginner,"Adults, Teens, Kids","Soup, Vegetable Dishes",Peanut
-2,2-3,Advanced,"Teens, Adults, Elders","Vegetable with Meat, Soup",Egg
-3,4-5,Intermediate,Adults,"Appetizer, Vegetable Dishes",Shellfish
-4,2-3,Beginner,"Kids, Adults, Elders","Vegetable Dishes, Vegetable with Seafood",Gluten
-5,4-5,Intermediate,"Elders, Teens","Vegetable with Meat, Appetizer",None
