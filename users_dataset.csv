@@ -1,0 +1,26 @@
+userID,family_size,cooking_skills,age_range,meal_preferences,allergies
+1,02-Mar,Beginner,"Adults, Teens, Kids","Soup, Vegetable Dishes","Peanut, Chicken"
+2,02-Mar,Advanced,"Teens, Adults, Elders","Vegetable with Meat, Soup","Egg, Soy, Peanut"
+3,04-May,Intermediate,Adults,"Appetizer, Vegetable Dishes","Shellfish, Chicken, Soy, Egg"
+4,02-Mar,Beginner,"Kids, Adults, Elders","Vegetable Dishes, Vegetable with Seafood","Meat, Chicken, Soy, Egg"
+5,04-May,Intermediate,"Elders, Teens","Vegetable with Meat, Appetizer",None
+6,02-Mar,Beginner,"Adults, Teens, Kids","Soup, Vegetable Dishes","Peanut, Chicken"
+7,04-May,Intermediate,"Adults, Kids","Meat, Vegetable with Seafood","Shellfish, Milk"
+8,02-Mar,Advanced,Adults,"Soup, Appetizer, Dessert",None
+9,04-May,Intermediate,"Teens, Kids","Vegetable Dishes, Soup","Dairy, Egg, Milk"
+10,02-Mar,Beginner,"Kids, Teens","Meat, Dessert",Gluten
+11,04-May,Advanced,"Adults, Teens","Soup, Meat, Vegetable with Meat",Fish
+12,02-Mar,Intermediate,Adults,"Vegetable Dishes, Appetizer",Soy
+13,04-May,Beginner,"Kids, Teens","Dessert, Vegetable with Seafood","Nut, Dairy"
+14,02-Mar,Advanced,Adults,"Meat, Soup","Shellfish, Egg"
+15,04-May,Intermediate,"Teens, Adults","Vegetable Dishes, Soup, Dessert","Peanut, Gluten"
+16,02-Mar,Beginner,"Kids, Teens","Appetizer, Dessert",Chicken
+17,04-May,Advanced,"Adults, Teens","Meat, Vegetable Dishes","Fish, Soy"
+18,02-Mar,Intermediate,Adults,"Soup, Vegetable with Seafood","Dairy, Nut"
+19,04-May,Beginner,"Kids, Adults","Appetizer, Dessert","Gluten, Peanut"
+20,02-Mar,Advanced,"Teens, Adults","Meat, Soup","Shellfish, Egg"
+21,04-May,Intermediate,Adults,"Vegetable Dishes, Soup","Soy, Chicken"
+22,02-Mar,Beginner,Kids,"Dessert, Vegetable Dishes",Nut
+23,04-May,Advanced,"Teens, Adults","Meat, Appetizer","Fish, Dairy"
+24,02-Mar,Intermediate,"Kids, Teens","Soup, Vegetable with Meat","Egg, Gluten"
+25,04-May,Beginner,Adults,"Dessert, Soup","Peanut, Shellfish"
