@@ -1,59 +1,59 @@
 dishID,dishname,prep_time,ingre_list,num_servings,nutri_guide,skills_needed,age_range,meal_type
-101,Grilled Chicken Salad,30,"Chicken breast, Lettuce, Olive oil, Salt, Pepper",04-May,"Calories: 300, Protein: 25g, Carbs: 20g, Fats: 10g",Intermediate,Adults,"Vegetable Dishes, Soup, Appetizer"
-102,Spaghetti Bolognese,45,"Spaghetti, Ground beef, Tomato sauce, Garlic, Onion",02-Mar,"Calories: 450, Protein: 30g, Carbs: 50g, Fats: 15g",Advanced,Teens,Soup
-103,Vegetarian Stir Fry,20,"Bell peppers, Broccoli, Soy sauce, Tofu, Garlic",04-May,"Calories: 200, Protein: 15g, Carbs: 30g, Fats: 5g",Beginner,Kids,Vegetable Dishes
-104,Beef Tacos,25,"Ground beef, Taco shells, Lettuce, Tomato, Cheese",02-Mar,"Calories: 400, Protein: 35g, Carbs: 40g, Fats: 20g",Intermediate,Adults,Soup
-105,Pancake Breakfast,15,"Flour, Eggs, Milk, Butter, Syrup",02-Mar,"Calories: 350, Protein: 12g, Carbs: 50g, Fats: 10g",Beginner,Kids,Soup
-106,Chicken Alfredo Pasta,40,"Chicken breast, Alfredo sauce, Fettuccine pasta, Parmesan cheese",04-May,"Calories: 500, Protein: 30g, Carbs: 60g, Fats: 20g",Intermediate,"Adults, Teens","Vegetable with Seafood, Soup"
-107,Quinoa Salad,20,"Quinoa, Cucumbers, Tomatoes, Lemon, Olive oil",02-Mar,"Calories: 250, Protein: 10g, Carbs: 35g, Fats: 8g",Beginner,"Kids, Adults",Vegetable Dishes
-108,BBQ Pulled Pork Sandwich,35,"Pork shoulder, BBQ sauce, Burger buns, Coleslaw",04-May,"Calories: 600, Protein: 40g, Carbs: 50g, Fats: 25g",Intermediate,Adults,Vegetable with Seafood
-109,Vegetable Lasagna,60,"Lasagna noodles, Marinara sauce, Zucchini, Spinach, Mozzarella",04-May,"Calories: 400, Protein: 25g, Carbs: 45g, Fats: 15g",Advanced,"Adults, Teens","Vegetable with Seafood, Soup"
-110,Omelette,15,"Eggs, Cheese, Onions, Peppers",04-May,"Calories: 200, Protein: 15g, Carbs: 5g, Fats: 10g",Beginner,"Kids, Teens",Vegetable with Seafood
-111,Fruit Yogurt Parfait,10,"Greek yogurt, Strawberries, Blueberries, Granola, Honey",02-Mar,"Calories: 150, Protein: 8g, Carbs: 25g, Fats: 5g",Beginner,"Kids, Teens",Vegetable with Seafood
-112,Mushroom Risotto,45,"Arborio rice, Mushrooms, Parmesan cheese, White wine, Garlic",02-Mar,"Calories: 350, Protein: 15g, Carbs: 50g, Fats: 10g",Advanced,Adults,Vegetable with Meat
-113,Grilled Cheese Sandwich,10,"Bread, Cheddar cheese, Butter",04-May,"Calories: 300, Protein: 12g, Carbs: 35g, Fats: 12g",Beginner,Kids,Vegetable with Seafood
-114,Tomato Basil Soup,25,"Tomatoes, Basil, Garlic, Vegetable broth, Olive oil",04-May,"Calories: 180, Protein: 8g, Carbs: 30g, Fats: 6g",Beginner,"Teens, Adults",Vegetable Dishes
-115,Chicken Caesar Wrap,20,"Chicken breast, Romaine lettuce, Caesar dressing, Tortilla wraps",02-Mar,"Calories: 350, Protein: 20g, Carbs: 30g, Fats: 15g",Intermediate,Adults,Vegetable Dishes
-116,Adobo,60,"Chicken or Pork, Soy sauce, Vinegar, Garlic, Bay leaves",04-May,"Calories: 400, Protein: 30g, Carbs: 5g, Fats: 25g",Intermediate,"Adults, Teens",Vegetable with Meat
-117,Sinigang na Baboy,90,"Pork, Tamarind, Tomatoes, Radish, Spinach",04-May,"Calories: 350, Protein: 25g, Carbs: 15g, Fats: 20g",Intermediate,"Adults, Kids",Soup
-118,Pancit Canton,45,"Noodles, Chicken, Shrimp, Carrots, Soy sauce",02-Mar,"Calories: 500, Protein: 30g, Carbs: 70g, Fats: 15g",Intermediate,"Teens, Adults",Vegetable with Meat
-119,Lumpiang Shanghai,30,"Ground pork, Carrots, Green onions, Wrappers",02-Mar,"Calories: 300, Protein: 20g, Carbs: 15g, Fats: 18g",Advanced,"Kids, Adults",Appetizer
-120,Kare-Kare,120,"Oxtail, Peanut butter, Eggplant, String beans, Rice",04-May,"Calories: 600, Protein: 40g, Carbs: 50g, Fats: 35g",Advanced,Adults,Vegetable with Meat
-121,Halo-Halo,20,"Shaved ice, Evaporated milk, Sweet beans, Fruits",02-Mar,"Calories: 250, Protein: 5g, Carbs: 45g, Fats: 7g",Beginner,"Kids, Teens",Dessert
-122,Bibingka,45,"Rice flour, Coconut milk, Sugar, Eggs, Cheese",02-Mar,"Calories: 200, Protein: 4g, Carbs: 30g, Fats: 8g",Intermediate,"Kids, Adults",Dessert
-123,Bicol Express,45,"Pork, Coconut milk, Chili peppers, Shrimp paste",02-Mar,"Calories: 500, Protein: 30g, Carbs: 10g, Fats: 40g",Advanced,Adults,Vegetable with Meat
-124,Puto,30,"Rice flour, Sugar, Coconut milk, Baking powder",02-Mar,"Calories: 150, Protein: 3g, Carbs: 30g, Fats: 2g",Beginner,Kids,Dessert
-125,Tinola,60,"Chicken, Ginger, Green papaya, Spinach, Fish sauce",04-May,"Calories: 350, Protein: 25g, Carbs: 10g, Fats: 15g",Intermediate,"Adults, Teens",Soup
-126,Chicken Inasal,60,"Chicken, Lemongrass, Garlic, Soy sauce, Calamansi",04-May,"Calories: 450, Protein: 35g, Carbs: 5g, Fats: 30g",Intermediate,"Adults, Teens",Meat
-127,Ginisang Munggo,40,"Mung beans, Spinach, Tomatoes, Garlic, Onion",04-May,"Calories: 250, Protein: 15g, Carbs: 30g, Fats: 5g",Intermediate,"Adults, Kids",Vegetable Dishes
-128,Pochero,90,"Beef shank, Plantains, Potatoes, Cabbage, Tomato sauce",04-May,"Calories: 600, Protein: 40g, Carbs: 50g, Fats: 30g",Advanced,Adults,"Meat, Soup"
-129,Chopsuey,30,"Mixed vegetables, Chicken or Pork, Soy sauce",02-Mar,"Calories: 300, Protein: 20g, Carbs: 40g, Fats: 10g",Intermediate,"Teens, Adults",Vegetable Dishes
-130,Tapsilog,30,"Beef tapa, Fried rice, Egg, Garlic",02-Mar,"Calories: 500, Protein: 30g, Carbs: 60g, Fats: 20g",Intermediate,"Adults, Teens",Meat
-131,Buko Pandan,20,"Young coconut, Pandan jelly, Sweetened cream",02-Mar,"Calories: 300, Protein: 3g, Carbs: 40g, Fats: 15g",Beginner,"Kids, Teens",Dessert
-132,Labanos Salad,15,"Daikon radish, Tomatoes, Onions, Vinegar",04-May,"Calories: 100, Protein: 2g, Carbs: 20g, Fats: 0g",Beginner,"Adults, Kids",Vegetable Dishes
-133,Leche Flan,60,"Egg yolks, Condensed milk, Sugar",04-May,"Calories: 300, Protein: 6g, Carbs: 30g, Fats: 18g",Intermediate,"Kids, Adults",Dessert
-134,Panga ng Isda,45,"Fish, Ginger, Garlic, Onion, Soy sauce",02-Mar,"Calories: 400, Protein: 25g, Carbs: 5g, Fats: 30g",Intermediate,"Adults, Teens",Vegetable with Seafood
-135,Goto,90,"Beef tripe, Rice, Ginger, Garlic, Onion",04-May,"Calories: 500, Protein: 30g, Carbs: 60g, Fats: 20g",Advanced,"Adults, Teens",Soup
-136,Longganisa,30,"Ground pork, Garlic, Sugar, Vinegar, Spices",04-May,"Calories: 400, Protein: 25g, Carbs: 10g, Fats: 35g",Intermediate,"Adults, Teens",Meat
-137,Eggplant Tortang,30,"Eggplant, Eggs, Onion, Tomato, Oil",02-Mar,"Calories: 250, Protein: 8g, Carbs: 20g, Fats: 15g",Intermediate,"Kids, Adults",Vegetable with Meat
-138,Pinakbet,60,"Mixed vegetables, Shrimp paste, Pork, Tomato",04-May,"Calories: 350, Protein: 15g, Carbs: 40g, Fats: 20g",Intermediate,"Adults, Kids",Vegetable Dishes
-139,Sautéed Ampalaya,20,"Bitter melon, Eggs, Tomatoes, Onion",02-Mar,"Calories: 150, Protein: 5g, Carbs: 10g, Fats: 10g",Beginner,"Adults, Teens",Vegetable Dishes
-140,Chicken Afritada,60,"Chicken, Potatoes, Carrots, Tomato sauce",02-Mar,"Calories: 500, Protein: 35g, Carbs: 40g, Fats: 20g",Intermediate,"Adults, Teens",Meat
-141,Turon,20,"Bananas, Spring roll wrappers, Brown sugar",02-Mar,"Calories: 200, Protein: 1g, Carbs: 40g, Fats: 8g",Beginner,"Kids, Adults",Dessert
-142,Bihon Guisado,40,"Rice noodles, Chicken, Shrimp, Mixed vegetables",04-May,"Calories: 400, Protein: 25g, Carbs: 60g, Fats: 15g",Intermediate,"Adults, Teens",Vegetable with Meat
-143,Bawang na Panga,45,"Fish, Garlic, Ginger, Soy sauce",02-Mar,"Calories: 350, Protein: 25g, Carbs: 5g, Fats: 20g",Intermediate,Adults,Vegetable with Seafood
-144,Macapuno Salad,15,"Macapuno, Condensed milk, Fruit cocktail",02-Mar,"Calories: 300, Protein: 3g, Carbs: 40g, Fats: 15g",Beginner,"Kids, Teens",Dessert
-145,Labanos Sinigang,90,"Pork, Daikon, Tamarind, Spinach, Tomatoes",04-May,"Calories: 400, Protein: 25g, Carbs: 15g, Fats: 20g",Intermediate,"Adults, Teens",Soup
-146,Chicken Curry,60,"Chicken, Coconut milk, Curry powder, Vegetables",04-May,"Calories: 550, Protein: 40g, Carbs: 30g, Fats: 25g",Intermediate,Adults,Meat
-147,Sweet and Sour Pork,60,"Pork, Pineapple, Bell peppers, Vinegar, Sugar",04-May,"Calories: 500, Protein: 30g, Carbs: 40g, Fats: 25g",Intermediate,"Adults, Teens",Meat
-148,Tofu and Veggie Stir Fry,30,"Tofu, Broccoli, Carrots, Soy sauce, Garlic",02-Mar,"Calories: 250, Protein: 20g, Carbs: 30g, Fats: 10g",Beginner,"Kids, Adults",Vegetable Dishes
-149,Ginataang Bilo-Bilo,40,"Glutinous rice balls, Coconut milk, Sweet potatoes",04-May,"Calories: 300, Protein: 4g, Carbs: 50g, Fats: 15g",Beginner,"Kids, Teens",Dessert
-150,Batchoy,60,"Pork, Noodles, Broth, Liver, Chicharrón",04-May,"Calories: 500, Protein: 30g, Carbs: 60g, Fats: 25g",Intermediate,Adults,Soup
-151,Tinapa,40,"Smoked fish, Tomatoes, Onion, Garlic",02-Mar,"Calories: 350, Protein: 25g, Carbs: 5g, Fats: 20g",Beginner,"Adults, Teens",Vegetable with Seafood
-152,Pancit Habhab,30,"Noodles, Pork, Vegetables, Soy sauce",02-Mar,"Calories: 400, Protein: 25g, Carbs: 60g, Fats: 15g",Intermediate,"Adults, Kids",Vegetable with Meat
-153,Kutsinta,40,"Rice flour, Brown sugar, Coconut milk, Lye water",02-Mar,"Calories: 200, Protein: 4g, Carbs: 35g, Fats: 6g",Beginner,"Kids, Adults",Dessert
-154,Sizzling Tofu,30,"Tofu, Bell peppers, Soy sauce, Egg, Vegetables",04-May,"Calories: 400, Protein: 20g, Carbs: 30g, Fats: 25g",Intermediate,Adults,Vegetable Dishes
-155,Bihon Guisado with Seafood,40,"Rice noodles, Shrimp, Squid, Vegetables",04-May,"Calories: 450, Protein: 30g, Carbs: 70g, Fats: 15g",Intermediate,"Adults, Teens",Vegetable with Seafood
+101,Grilled Chicken Salad,30,"Chicken breast, Lettuce, Olive oil, Salt, Pepper",4-5,"Calories: 300, Protein: 25g, Carbs: 20g, Fats: 10g",Intermediate,Adults,"Vegetable Dishes, Soup, Appetizer"
+102,Spaghetti Bolognese,45,"Spaghetti, Ground beef, Tomato sauce, Garlic, Onion",2-3,"Calories: 450, Protein: 30g, Carbs: 50g, Fats: 15g",Advanced,Teens,Soup
+103,Vegetarian Stir Fry,20,"Bell peppers, Broccoli, Soy sauce, Tofu, Garlic",4-5,"Calories: 200, Protein: 15g, Carbs: 30g, Fats: 5g",Beginner,Kids,Vegetable Dishes
+104,Beef Tacos,25,"Ground beef, Taco shells, Lettuce, Tomato, Cheese",2-3,"Calories: 400, Protein: 35g, Carbs: 40g, Fats: 20g",Intermediate,Adults,Soup
+105,Pancake Breakfast,15,"Flour, Eggs, Milk, Butter, Syrup",2-3,"Calories: 350, Protein: 12g, Carbs: 50g, Fats: 10g",Beginner,Kids,Soup
+106,Chicken Alfredo Pasta,40,"Chicken breast, Alfredo sauce, Fettuccine pasta, Parmesan cheese",4-5,"Calories: 500, Protein: 30g, Carbs: 60g, Fats: 20g",Intermediate,"Adults, Teens","Vegetable with Seafood, Soup"
+107,Quinoa Salad,20,"Quinoa, Cucumbers, Tomatoes, Lemon, Olive oil",2-3,"Calories: 250, Protein: 10g, Carbs: 35g, Fats: 8g",Beginner,"Kids, Adults",Vegetable Dishes
+108,BBQ Pulled Pork Sandwich,35,"Pork shoulder, BBQ sauce, Burger buns, Coleslaw",4-5,"Calories: 600, Protein: 40g, Carbs: 50g, Fats: 25g",Intermediate,Adults,Vegetable with Seafood
+109,Vegetable Lasagna,60,"Lasagna noodles, Marinara sauce, Zucchini, Spinach, Mozzarella",4-5,"Calories: 400, Protein: 25g, Carbs: 45g, Fats: 15g",Advanced,"Adults, Teens","Vegetable with Seafood, Soup"
+110,Omelette,15,"Eggs, Cheese, Onions, Peppers",4-5,"Calories: 200, Protein: 15g, Carbs: 5g, Fats: 10g",Beginner,"Kids, Teens",Vegetable with Seafood
+111,Fruit Yogurt Parfait,10,"Greek yogurt, Strawberries, Blueberries, Granola, Honey",2-3,"Calories: 150, Protein: 8g, Carbs: 25g, Fats: 5g",Beginner,"Kids, Teens",Vegetable with Seafood
+112,Mushroom Risotto,45,"Arborio rice, Mushrooms, Parmesan cheese, White wine, Garlic",2-3,"Calories: 350, Protein: 15g, Carbs: 50g, Fats: 10g",Advanced,Adults,Vegetable with Meat
+113,Grilled Cheese Sandwich,10,"Bread, Cheddar cheese, Butter",4-5,"Calories: 300, Protein: 12g, Carbs: 35g, Fats: 12g",Beginner,Kids,Vegetable with Seafood
+114,Tomato Basil Soup,25,"Tomatoes, Basil, Garlic, Vegetable broth, Olive oil",4-5,"Calories: 180, Protein: 8g, Carbs: 30g, Fats: 6g",Beginner,"Teens, Adults",Vegetable Dishes
+115,Chicken Caesar Wrap,20,"Chicken breast, Romaine lettuce, Caesar dressing, Tortilla wraps",2-3,"Calories: 350, Protein: 20g, Carbs: 30g, Fats: 15g",Intermediate,Adults,Vegetable Dishes
+116,Adobo,60,"Chicken or Pork, Soy sauce, Vinegar, Garlic, Bay leaves",4-5,"Calories: 400, Protein: 30g, Carbs: 5g, Fats: 25g",Intermediate,"Adults, Teens",Vegetable with Meat
+117,Sinigang na Baboy,90,"Pork, Tamarind, Tomatoes, Radish, Spinach",4-5,"Calories: 350, Protein: 25g, Carbs: 15g, Fats: 20g",Intermediate,"Adults, Kids",Soup
+118,Pancit Canton,45,"Noodles, Chicken, Shrimp, Carrots, Soy sauce",2-3,"Calories: 500, Protein: 30g, Carbs: 70g, Fats: 15g",Intermediate,"Teens, Adults",Vegetable with Meat
+119,Lumpiang Shanghai,30,"Ground pork, Carrots, Green onions, Wrappers",2-3,"Calories: 300, Protein: 20g, Carbs: 15g, Fats: 18g",Advanced,"Kids, Adults",Appetizer
+120,Kare-Kare,120,"Oxtail, Peanut butter, Eggplant, String beans, Rice",4-5,"Calories: 600, Protein: 40g, Carbs: 50g, Fats: 35g",Advanced,Adults,Vegetable with Meat
+121,Halo-Halo,20,"Shaved ice, Evaporated milk, Sweet beans, Fruits",2-3,"Calories: 250, Protein: 5g, Carbs: 45g, Fats: 7g",Beginner,"Kids, Teens",Dessert
+122,Bibingka,45,"Rice flour, Coconut milk, Sugar, Eggs, Cheese",2-3,"Calories: 200, Protein: 4g, Carbs: 30g, Fats: 8g",Intermediate,"Kids, Adults",Dessert
+123,Bicol Express,45,"Pork, Coconut milk, Chili peppers, Shrimp paste",2-3,"Calories: 500, Protein: 30g, Carbs: 10g, Fats: 40g",Advanced,Adults,Vegetable with Meat
+124,Puto,30,"Rice flour, Sugar, Coconut milk, Baking powder",2-3,"Calories: 150, Protein: 3g, Carbs: 30g, Fats: 2g",Beginner,Kids,Dessert
+125,Tinola,60,"Chicken, Ginger, Green papaya, Spinach, Fish sauce",4-5,"Calories: 350, Protein: 25g, Carbs: 10g, Fats: 15g",Intermediate,"Adults, Teens",Soup
+126,Chicken Inasal,60,"Chicken, Lemongrass, Garlic, Soy sauce, Calamansi",4-5,"Calories: 450, Protein: 35g, Carbs: 5g, Fats: 30g",Intermediate,"Adults, Teens",Meat
+127,Ginisang Munggo,40,"Mung beans, Spinach, Tomatoes, Garlic, Onion",4-5,"Calories: 250, Protein: 15g, Carbs: 30g, Fats: 5g",Intermediate,"Adults, Kids",Vegetable Dishes
+128,Pochero,90,"Beef shank, Plantains, Potatoes, Cabbage, Tomato sauce",4-5,"Calories: 600, Protein: 40g, Carbs: 50g, Fats: 30g",Advanced,Adults,"Meat, Soup"
+129,Chopsuey,30,"Mixed vegetables, Chicken or Pork, Soy sauce",2-3,"Calories: 300, Protein: 20g, Carbs: 40g, Fats: 10g",Intermediate,"Teens, Adults",Vegetable Dishes
+130,Tapsilog,30,"Beef tapa, Fried rice, Egg, Garlic",2-3,"Calories: 500, Protein: 30g, Carbs: 60g, Fats: 20g",Intermediate,"Adults, Teens",Meat
+131,Buko Pandan,20,"Young coconut, Pandan jelly, Sweetened cream",2-3,"Calories: 300, Protein: 3g, Carbs: 40g, Fats: 15g",Beginner,"Kids, Teens",Dessert
+132,Labanos Salad,15,"Daikon radish, Tomatoes, Onions, Vinegar",4-5,"Calories: 100, Protein: 2g, Carbs: 20g, Fats: 0g",Beginner,"Adults, Kids",Vegetable Dishes
+133,Leche Flan,60,"Egg yolks, Condensed milk, Sugar",4-5,"Calories: 300, Protein: 6g, Carbs: 30g, Fats: 18g",Intermediate,"Kids, Adults",Dessert
+134,Panga ng Isda,45,"Fish, Ginger, Garlic, Onion, Soy sauce",2-3,"Calories: 400, Protein: 25g, Carbs: 5g, Fats: 30g",Intermediate,"Adults, Teens",Vegetable with Seafood
+135,Goto,90,"Beef tripe, Rice, Ginger, Garlic, Onion",4-5,"Calories: 500, Protein: 30g, Carbs: 60g, Fats: 20g",Advanced,"Adults, Teens",Soup
+136,Longganisa,30,"Ground pork, Garlic, Sugar, Vinegar, Spices",4-5,"Calories: 400, Protein: 25g, Carbs: 10g, Fats: 35g",Intermediate,"Adults, Teens",Meat
+137,Eggplant Tortang,30,"Eggplant, Eggs, Onion, Tomato, Oil",2-3,"Calories: 250, Protein: 8g, Carbs: 20g, Fats: 15g",Intermediate,"Kids, Adults",Vegetable with Meat
+138,Pinakbet,60,"Mixed vegetables, Shrimp paste, Pork, Tomato",4-5,"Calories: 350, Protein: 15g, Carbs: 40g, Fats: 20g",Intermediate,"Adults, Kids",Vegetable Dishes
+139,SautÃ©ed Ampalaya,20,"Bitter melon, Eggs, Tomatoes, Onion",2-3,"Calories: 150, Protein: 5g, Carbs: 10g, Fats: 10g",Beginner,"Adults, Teens",Vegetable Dishes
+140,Chicken Afritada,60,"Chicken, Potatoes, Carrots, Tomato sauce",2-3,"Calories: 500, Protein: 35g, Carbs: 40g, Fats: 20g",Intermediate,"Adults, Teens",Meat
+141,Turon,20,"Bananas, Spring roll wrappers, Brown sugar",2-3,"Calories: 200, Protein: 1g, Carbs: 40g, Fats: 8g",Beginner,"Kids, Adults",Dessert
+142,Bihon Guisado,40,"Rice noodles, Chicken, Shrimp, Mixed vegetables",4-5,"Calories: 400, Protein: 25g, Carbs: 60g, Fats: 15g",Intermediate,"Adults, Teens",Vegetable with Meat
+143,Bawang na Panga,45,"Fish, Garlic, Ginger, Soy sauce",2-3,"Calories: 350, Protein: 25g, Carbs: 5g, Fats: 20g",Intermediate,Adults,Vegetable with Seafood
+144,Macapuno Salad,15,"Macapuno, Condensed milk, Fruit cocktail",2-3,"Calories: 300, Protein: 3g, Carbs: 40g, Fats: 15g",Beginner,"Kids, Teens",Dessert
+145,Labanos Sinigang,90,"Pork, Daikon, Tamarind, Spinach, Tomatoes",4-5,"Calories: 400, Protein: 25g, Carbs: 15g, Fats: 20g",Intermediate,"Adults, Teens",Soup
+146,Chicken Curry,60,"Chicken, Coconut milk, Curry powder, Vegetables",4-5,"Calories: 550, Protein: 40g, Carbs: 30g, Fats: 25g",Intermediate,Adults,Meat
+147,Sweet and Sour Pork,60,"Pork, Pineapple, Bell peppers, Vinegar, Sugar",4-5,"Calories: 500, Protein: 30g, Carbs: 40g, Fats: 25g",Intermediate,"Adults, Teens",Meat
+148,Tofu and Veggie Stir Fry,30,"Tofu, Broccoli, Carrots, Soy sauce, Garlic",2-3,"Calories: 250, Protein: 20g, Carbs: 30g, Fats: 10g",Beginner,"Kids, Adults",Vegetable Dishes
+149,Ginataang Bilo-Bilo,40,"Glutinous rice balls, Coconut milk, Sweet potatoes",4-5,"Calories: 300, Protein: 4g, Carbs: 50g, Fats: 15g",Beginner,"Kids, Teens",Dessert
+150,Batchoy,60,"Pork, Noodles, Broth, Liver, ChicharrÃ³n",4-5,"Calories: 500, Protein: 30g, Carbs: 60g, Fats: 25g",Intermediate,Adults,Soup
+151,Tinapa,40,"Smoked fish, Tomatoes, Onion, Garlic",2-3,"Calories: 350, Protein: 25g, Carbs: 5g, Fats: 20g",Beginner,"Adults, Teens",Vegetable with Seafood
+152,Pancit Habhab,30,"Noodles, Pork, Vegetables, Soy sauce",2-3,"Calories: 400, Protein: 25g, Carbs: 60g, Fats: 15g",Intermediate,"Adults, Kids",Vegetable with Meat
+153,Kutsinta,40,"Rice flour, Brown sugar, Coconut milk, Lye water",2-3,"Calories: 200, Protein: 4g, Carbs: 35g, Fats: 6g",Beginner,"Kids, Adults",Dessert
+154,Sizzling Tofu,30,"Tofu, Bell peppers, Soy sauce, Egg, Vegetables",4-5,"Calories: 400, Protein: 20g, Carbs: 30g, Fats: 25g",Intermediate,Adults,Vegetable Dishes
+155,Bihon Guisado with Seafood,40,"Rice noodles, Shrimp, Squid, Vegetables",4-5,"Calories: 450, Protein: 30g, Carbs: 70g, Fats: 15g",Intermediate,"Adults, Teens",Vegetable with Seafood
 156,Pritong Isda,30,"Fish, Garlic, Lemon, Oil",04-May,"Calories: 300, Protein: 25g, Carbs: 0g, Fats: 20g",Beginner,Adults,Meat
 157,Gabi at Buko,40,"Taro, Coconut, Milk, Sugar",02-Mar,"Calories: 250, Protein: 5g, Carbs: 40g, Fats: 10g",Intermediate,"Kids, Teens",Dessert
 158,Beef Caldereta,90,"Beef, Tomato sauce, Bell peppers, Potatoes",04-May,"Calories: 600, Protein: 40g, Carbs: 30g, Fats: 35g",Advanced,Adults,Meat
