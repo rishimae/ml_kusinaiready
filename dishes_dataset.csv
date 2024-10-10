@@ -3,7 +3,7 @@ dishID,dishname,prep_time,ingre_list,num_servings,nutri_guide,skills_needed,age_
 102,Spaghetti Bolognese,45,"Spaghetti, Ground beef, Tomato sauce, Garlic, Onion",2-3,"Calories: 450, Protein: 30g, Carbs: 50g, Fats: 15g",Advanced,Teens,Soup
 103,Vegetarian Stir Fry,20,"Bell peppers, Broccoli, Soy sauce, Tofu, Garlic",4-5,"Calories: 200, Protein: 15g, Carbs: 30g, Fats: 5g",Beginner,Kids,Vegetable Dishes
 104,Beef Tacos,25,"Ground beef, Taco shells, Lettuce, Tomato, Cheese",2-3,"Calories: 400, Protein: 35g, Carbs: 40g, Fats: 20g",Intermediate,Adults,Soup
-105,Pancake Breakfast,15,"Flour, Eggs, Milk, Butter, Syrup",2-3,"Calories: 350, Protein: 12g, Carbs: 50g, Fats: 10g",Beginner,Kids,Soup
+105,Pancake Breakfast,15,"1/2 cup Peanut, Flour, Eggs, Milk, Butter, Syrup",2-3,"Calories: 350, Protein: 12g, Carbs: 50g, Fats: 10g",Beginner,Kids,Soup
 106,Chicken Alfredo Pasta,40,"Chicken breast, Alfredo sauce, Fettuccine pasta, Parmesan cheese",4-5,"Calories: 500, Protein: 30g, Carbs: 60g, Fats: 20g",Intermediate,"Adults, Teens","Vegetable with Seafood, Soup"
 107,Quinoa Salad,20,"Quinoa, Cucumbers, Tomatoes, Lemon, Olive oil",2-3,"Calories: 250, Protein: 10g, Carbs: 35g, Fats: 8g",Beginner,"Kids, Adults",Vegetable Dishes
 108,BBQ Pulled Pork Sandwich,35,"Pork shoulder, BBQ sauce, Burger buns, Coleslaw",4-5,"Calories: 600, Protein: 40g, Carbs: 50g, Fats: 25g",Intermediate,Adults,Vegetable with Seafood
