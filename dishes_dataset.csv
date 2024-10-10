@@ -49,7 +49,7 @@ dishID,dishname,prep_time,ingre_list,num_servings,nutri_guide,skills_needed,age_
 148,Tofu and Veggie Stir Fry,30,"Tofu, Broccoli, Carrots, Soy sauce, Garlic",2-3,"Calories: 250, Protein: 20g, Carbs: 30g, Fats: 10g",Beginner,"Kids, Adults",Vegetable Dishes
 149,Ginataang Bilo-Bilo,40,"Glutinous rice balls, Coconut milk, Sweet potatoes",4-5,"Calories: 300, Protein: 4g, Carbs: 50g, Fats: 15g",Beginner,"Kids, Teens",Dessert
 150,Batchoy,60,"Pork, Noodles, Broth, Liver, Chicharrón",4-5,"Calories: 500, Protein: 30g, Carbs: 60g, Fats: 25g",Intermediate,Adults,Soup
-151,Tinapa,40,"Egg, Smoked fish, Tomatoes, Onion, Garlic",2-3,"Calories: 350, Protein: 25g, Carbs: 5g, Fats: 20g",Beginner,"Adults, Teens",Vegetable with Seafood
+151,Tinapa,40,"Smoked fish, Tomatoes, Onion, Garlic",2-3,"Calories: 350, Protein: 25g, Carbs: 5g, Fats: 20g",Beginner,"Adults, Teens",Vegetable with Seafood
 152,Pancit Habhab,30,"Noodles, Pork, Vegetables, Soy sauce",2-3,"Calories: 400, Protein: 25g, Carbs: 60g, Fats: 15g",Intermediate,"Adults, Kids",Vegetable with Meat
 153,Kutsinta,40,"Rice flour, Brown sugar, Coconut milk, Lye water",2-3,"Calories: 200, Protein: 4g, Carbs: 35g, Fats: 6g",Beginner,"Kids, Adults",Dessert
 154,Sizzling Tofu,30,"Tofu, Bell peppers, Soy sauce, Egg, Vegetables",4-5,"Calories: 400, Protein: 20g, Carbs: 30g, Fats: 25g",Intermediate,Adults,Vegetable Dishes
