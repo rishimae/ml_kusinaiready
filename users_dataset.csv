@@ -7,7 +7,7 @@ userID,family_size,cooking_skills,age_range,meal_preferences,allergies
 6,2-3,Beginner,"Adults, Teens, Kids","Soup, Vegetable Dishes, Pasta/Noodles, Dessert","Peanut, Chicken"
 7,4-5,Intermediate,"Adults, Kids","Meat Recipe, Seafood Recipe, Soup","Shellfish, Milk"
 8,2-3,Advanced,Adults,"Soup, Appetizer, Dessert, Pasta/Noodles",None
-9,4-5,Intermediate,"Teens, Kids","Vegetable Dishes, Soup, Dessert, Pasta/Noodles","Dairy, Egg, Milk"
+9,4-5,Intermediate,"Teens, Kids","Vegetable Dishes, Soup, Dessert, Pasta/Noodles",None
 10,2-3,Beginner,"Kids, Teens","Meat Recipe, Dessert, Pasta/Noodles, Appetizer",Gluten
 11,4-5,Advanced,"Adults, Teens","Soup, Meat Recipe, Seafood Recipe, Appetizer",Fish
 12,2-3,Intermediate,Adults,"Vegetable Dishes, Meat Recipe, Appetizer, Soup",Soy
